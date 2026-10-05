@@ -13,9 +13,7 @@ nicely designed website what can we get from this?
 - checked source not much is there besides the really obvious POST /auth method that we will be exploiting
 
 
-- when auth fails shows this
-
-![alt text](image-7.png)
+- when auth fails shows a cool error but then shows test credentials we can use to login
 
 this is good we need a sample account to forge a jwt session
 
