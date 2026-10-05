@@ -68,7 +68,7 @@ a file so big, dimensions so small, maybe i missed the dimensions
 
 image length no add up to dimensions so
 
-what i did was take the ACTUAL image length, divide it by the width, and then got the real image height which was 850 pixels instead of 306 pixels
+what i did was take the ACTUAL image length, divide it by the width, and then got the real image height which was 850 pixels instead of 306 pixels so i edited the hex and we win these.
 
 ![alt text](image-4.png)
 
