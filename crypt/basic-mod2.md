@@ -53,3 +53,9 @@ wrap in academy{} format and then ez win
 
 
 
+# something i did get stuck on
+
+- i almost forgot i had to take mod inverse and thought instead that i had to mod 41, then mod 37 after that to make it compatible to the 37 letter set
+
+
+
