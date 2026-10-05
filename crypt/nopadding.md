@@ -40,7 +40,8 @@ so i pulled out my junk notepad
 i was like cant be that hard to figure out an exploit in textbook RSA right? this is just maths im great at maths im horrible i got 10 in ioqm out of a 100
 
 
-So basically
+So basically i did a little maths to figure out that if i take another c2 and m2 and use the textbook RSA method, the formulas can be multiplied and they function cohesively, so
+
 
 ![alt text](20261006_010334.jpg)
 
