@@ -4,9 +4,6 @@ there is always a jwt session hijack in ctfs. always.
 
 and thats not because its productive or anything it just impedes my speed.
 
-![alt text](image-5.png)
-
-
 nicely designed website what can we get from this?
 
 
