@@ -8,7 +8,7 @@ your lovely host is here to explain to you what requests module does
 - now the core concept is that requests modlue CAN be written in sockets, infact it is written in sockets, but the point is that it acts as a very cool abstraction layer of sockets to hide away the advanced stuff.
 
 heres some simple things you can do, interact with REST apis and all
-
+```py
 
 # Sending form data
 form_data = {"username": "alice", "login": "success"}
@@ -17,7 +17,7 @@ response = requests.post("https://httpbin.org", data=form_data)
 # Sending JSON data to a REST API
 json_data = {"title": "Buy groceries", "completed": False}
 response = requests.post("https://typicode.com", json=json_data)
-
+```
 also theres a bunch of methods like OPTIONS etc. which honestly wont be needing unless you're really struggling in life.
 
 
