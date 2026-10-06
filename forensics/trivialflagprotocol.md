@@ -41,7 +41,7 @@ the plan file
 
 IUSEDTHEPROGRAMANDHIDITWITH-DUEDILIGENCE.CHECKOUTTHEPHOTOS
 
-duediligence is the tool they used. good to know.
+duediligence is the pw they used. good to know.
 
 
 nice photos btw
