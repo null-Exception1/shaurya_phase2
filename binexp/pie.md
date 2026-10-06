@@ -127,7 +127,8 @@ trying this
 
 ![alt text](image-43.png)
 
-300 hours of gemini later i figured out that i had to get the last 3 hex digits BEFORE i ran the program in gdb as by then it's already taken effect or sumn
+300 hours of searching later i figured out that i had to get the last 3 hex digits BEFORE i ran the program in gdb as by then it's already taken effect or sumn, because ASLR works in mysterious crazy ways
+
 
 ```
 Segmentation fault         /challenge/binary-exploitation-pie-overflow < /tmp/payload 2> /dev/null
