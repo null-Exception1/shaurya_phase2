@@ -52,7 +52,7 @@ starts from
 64
 ```
 
-padding is 72 chars because +8 cuz saved return address is right in front of ebp, lets finish this up whats our win return address?
+padding is 72 chars because +8 cuz saved return address is right in front of ebp, the `call` instruction generally adds this to remember how to get back to it's original position but since we're manipulating it, lets finish this up whats our win return address?
 
 ![alt text](image-31.png)
 
