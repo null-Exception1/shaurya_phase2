@@ -51,6 +51,9 @@ and thats the flag
 
 academy{654773}
 
+
+fun fact cmp uses flags register as a way for jmp statements to use it's results
+
 easy as fuck
 
 hard as fuck to crack denuvo though
