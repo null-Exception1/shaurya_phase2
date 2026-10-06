@@ -2,10 +2,11 @@
 
 
 shellcodes are like glorified RCE exploits and they're for script kiddies that prefer injecting carefully precrafted payloads and then like getting a response
-
+```bash
 hacker@binary-exploitation~basic-shellcode:/challenge$ ls
 DESCRIPTION.md  binary-exploitation-basic-shellcode  binary-exploitation-basic-shellcode.c
 hacker@binary-exploitation~basic-shellcode:/challenge$
+```
 
 FINALLY A FUCKING C FILE I CAN SEE OH MY GOD BRO I WAS DYING OF LOOKING AT RAW ASSEMBLY
 
