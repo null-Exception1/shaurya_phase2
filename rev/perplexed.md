@@ -288,7 +288,7 @@ for i in range(23):
         if k == 0:
             k = 1
         
-        comp_bit = (comparison[i] >> (7 - j)) & 1
+        comp_bit = (comparison[i] >> (7 - j)) & 1 # reversing the previous cyclic shift so that we know what to make to pass the if condition
         
         param_1_bits[counter * 8 + k] = comp_bit
         
