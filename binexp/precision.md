@@ -63,7 +63,7 @@ what this means in full entirety (the function we want to get to call is win)
 
 if we do x/20s 0x402138 and quickly get all the strings
 
-![alt text](image-12.png)
+![alt text](image-11.png)
 
 it shows a bunch of these strings which means that we're being checked against a lot of conditions
 
