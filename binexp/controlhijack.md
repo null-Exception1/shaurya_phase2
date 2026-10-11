@@ -24,7 +24,7 @@ specifically we're going to be exploiting this
 
 ![alt text](image-26.png)
 
-in assembly when a function ends it depends on it's rbp to return back to where it was called from, if we overwrite the rbp on the stack we can effectively guide where it wants to come back
+in assembly when a function ends it depends on it's return to return back to where it was called from, if we overwrite the return on the stack we can effectively guide where it wants to come back
 
 where is rbp written on stack?
 
