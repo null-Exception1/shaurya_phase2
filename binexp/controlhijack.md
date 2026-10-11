@@ -37,7 +37,7 @@ here you go, its a standard idiomatic thing to do in assembly so don't question 
 simple overflow reveals where we're overflowing
 
 
-alright so basically, do a basic bufferoverflow, leave a return address in place of the original ebp, good shit
+alright so basically, do a basic bufferoverflow, leave a different  return address in front (+8) of the original rbp, good shit
 
 ![alt text](image-29.png)
 
